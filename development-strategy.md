@@ -25,6 +25,8 @@ __A User can see my initial repository and live demo__
 
 - Generate from Template
 - Write initial, basic README
+- Add index.html, about.html, services.html
+- Add style.css
 - Turn on GitHub Pages
 
 ## 1. Header
