@@ -104,3 +104,18 @@ header a:hover {
     padding-right:20px;
     color:#ffffff;
   }
+  #articles{
+    margin-top:20px;
+  }
+  
+  #articles .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+  }
+  
+  #articles .box img{
+    width:90px;
+  }
+  
