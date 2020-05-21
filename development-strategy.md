@@ -154,9 +154,9 @@ __I want to see contact to company. I will send messages with my name and they c
 - Create a repo `8-contact`
 
 ### HTML
-- Add _form_
-- Add 3 form for user Name, mail and messages in _form_
-- Add send buttom
+- Add _sidebar_
+- Add 3 form for user Name, mail and messages in _sidebar_
+- Add send button
 
 ### CSS
 
