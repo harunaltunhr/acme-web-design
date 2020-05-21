@@ -146,4 +146,13 @@ header a:hover {
     float:left;
     width:65%;
   }
+
+  ul#services li{
+    list-style: none;
+    padding:20px;
+    border: #cccccc solid 1px;
+    margin-bottom:5px;
+    background:#e6e6e6;
+  }
+  
   
