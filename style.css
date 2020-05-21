@@ -125,4 +125,25 @@ header a:hover {
     background-color:#e8491d;
     text-align: center;
   }
+  aside#sidebar{
+    float:right;
+    width:30%;
+    margin-top:10px;
+  }
+  
+  aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width:90%;
+    padding:5px;
+  }
+  .dark{
+    padding:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+  }  
+  article#about-col{
+    float:left;
+    width:65%;
+  }
   
