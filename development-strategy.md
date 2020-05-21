@@ -9,11 +9,11 @@
 
 ## Wireframe
 ### Home Page
-![wireframe-Home](https://github.com/harunaltunhr/acme-web-design/blob/master/Acme-web-design%20Home.png)
+![wireframe-Home](https://github.com/harunaltunhr/acme-web-design/blob/master/Wireframes/Acme-web-design%20Home.png)
 ### About Page
-![Wireframe-About](https://github.com/harunaltunhr/acme-web-design/blob/master/Acme-web-design%20About.png)
+![Wireframe-About](https://github.com/harunaltunhr/acme-web-design/blob/master/Wireframes/Acme-web-design%20About.png)
 ### Services Page
-![Wireframe-Services](https://github.com/harunaltunhr/acme-web-design/blob/master/acme-web-design%20Services.png)
+![Wireframe-Services](https://github.com/harunaltunhr/acme-web-design/blob/master/Wireframes/acme-web-design%20Services.png)
 
 ---
 
