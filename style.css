@@ -174,13 +174,14 @@ article#main-col {
   color: #ffffff;
 }
 
-@media (max-width: 768px) {
+@media(max-width: 768px){
     header #branding,
     header nav,
     header nav li,
     #news h1,
     #news form,
     #boxes .box,
+    article#main-col,
     article#about-col,
     aside#sidebar{
       float:none;
@@ -192,16 +193,16 @@ article#main-col {
       padding-bottom:20px;
     }
   
-    #infosection h1{
+    #showcase h1{
       margin-top:40px;
     }
   
-    #news button, .quote button{
+    #newsletter button, .quote button{
       display:block;
       width:100%;
     }
   
-    #news form input[type="email"], .quote input, .quote textarea{
+    #newsletter form input[type="email"], .quote input, .quote textarea{
       width:100%;
       margin-bottom:5px;
     }
